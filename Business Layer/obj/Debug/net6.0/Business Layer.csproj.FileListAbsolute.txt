@@ -1,0 +1,45 @@
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfo.cs
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.deps.json
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CopyComplete
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\refint\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\GroceryStoreProject\Business Layer\obj\Debug\net6.0\ref\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.deps.json
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfo.cs
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CopyComplete
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\refint\Business Layer.dll
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\ref\Business Layer.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.deps.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\bin\Debug\net6.0\Data Access Layer.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.AssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.csproj.CopyComplete
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\refint\Business Layer.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\Business Layer.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\nagarro\akshay-kumar10\Final Project\AkshayKumar_3201449_FinalTest\GroceryStoreProject\Business Layer\obj\Debug\net6.0\ref\Business Layer.dll
